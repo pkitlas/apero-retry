@@ -1,8 +1,8 @@
 ---
 author: Peter Kitlas
-type: talks
+type: talk
 cascade:
-  type: talks
+  type: talk
   author: Peter Kitlas
   show_author_byline: true
   show_comments: false
