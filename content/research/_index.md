@@ -11,7 +11,7 @@ cascade:
     text_link_label: View all projects
     text_link_url: /research/
 description: Give your projects a place to live online.
-layout: list
+layout: list-sidebar
 show_author_byline: true
 show_post_date: false
 show_post_thumbnail: true
