@@ -16,14 +16,12 @@ show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
-  description: "This is a fully featured blog that supports categories,\ntags, series,
-    and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
-    the _index.md file in the /blog folder \nto edit this content. \n"
+  author: Peter Kitlas
+  description: "This is a collection of my most recent posts, including links to the Spain North Africa's Bulletin and updates about my current network analysis project on eighteenth-century Muslim diplomats."
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: A Sidebar for Your Thoughts
+  title: Public History Projects
 thumbnail_left: true
 title: Blog Posts
 ---
