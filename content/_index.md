@@ -2,19 +2,16 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: My research and teaching explore the intersection of global intellectual history and Islamic studies across the Mediterranean. I bring to these endeavors years of cross-cultural experience living in the Middle East and a strong commitment to building community. Through my work as a historian and educator I aim to showcase how the complexities of the past inform our connected, human present. 
+
 image_left: true
 images:
-- img/revoir.jpg
+- img/landing.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
-title: Hugo Apéro
+subtitle: A historian and teacher.
+text_align_left: true
+title: Peter Kitlas
 type: home
 ---
 

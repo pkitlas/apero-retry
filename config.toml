@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "petekitlas.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Peter's Professional Site"
@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = ""
   description = "A professional site for Dr. Peter Kitlas."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/icon.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer

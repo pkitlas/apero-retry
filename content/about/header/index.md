@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Hi! I am a researcher and teacher who focuses on the history of the Middle East and North Africa from the seventeenth century to the present.
+Hi! With a focus on the Middle East and North Africa, I believe in the importance of engaging and grappling with our past histories to better understand how we can make a global community of the present.
