@@ -1,4 +1,4 @@
-baseURL = "petekitlas.netlify.app/"
+baseURL = "https://petekitlas.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Peter's Professional Site"
