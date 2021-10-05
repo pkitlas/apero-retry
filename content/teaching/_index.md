@@ -1,7 +1,9 @@
 ---
-author: The R Markdown Team @RStudio
+author: Peter Kitlas
+type: talks
 cascade:
-  author: The R Markdown Team @RStudio
+  type: talks
+  author: Peter Kitlas
   show_author_byline: true
   show_comments: false
   show_post_date: true

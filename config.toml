@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "Peter Kitlas"
   orgLocal = ""
   description = "A professional site for Dr. Peter Kitlas."
-  favicon = "/img/favicon.ico"
+  favicon = "/img/icon.png"
   logo = "/img/icon.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/icon.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "pkitlas"
   
@@ -107,7 +107,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Me"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -116,14 +116,14 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Research"
+    title = "My published research"
+    url = "/research/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Teaching"
+    title = "My teaching portfolio"
+    url = "/teaching/"
     weight = 4
   [[menu.header]]
     name = "A collection"
