@@ -1,29 +1,32 @@
 ---
 author: Peter Kitlas
-type: project
+type: talk
 cascade:
-  type: project
+  type: talk
+  author: Peter Kitlas
   show_author_byline: true
   show_comments: false
   show_post_date: true
+  show_post_time: true
   sidebar:
-    show_sidebar_adunit: true
-    text_link_label: View all projects
-    text_link_url: /research/
-description: Give your projects a place to live online.
-layout: list-sidebar
+    show_sidebar_adunit: false
+    text_link_label: View recent talks
+    text_link_url: /talk/
+description: |
+  This is a list with links to my published academic research.
+layout: list
 show_author_byline: true
-show_post_date: false
+show_post_date: true
 show_post_thumbnail: true
+show_post_time: true
 sidebar:
   author: The R Markdown Team @RStudio
-  description: "Projects can be anything!\nCheck out the _index.md file in the /project
-    folder \nto edit this content.\n"
+  description: "This is a list with links to my published academic research."
   show_sidebar_adunit: false
-  text_link_label: ""
-  text_link_url: ""
-  title: A Sidebar for Your Projects
-title: A Project Portfolio To Grow
+  text_link_label: Subscribe via RSS
+  text_link_url: /talk/index.xml
+  title: Talks that Last
+title: My Published Research
 ---
 
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
+** No content below YAML for the talk _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside talk/. You may still override any of these by changing them in a page's front matter.**
