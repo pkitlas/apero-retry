@@ -1,12 +1,14 @@
 ---
 ## Configure page content in wide column
-title: "What I do" # leave blank to exclude
+title: "Research and Teaching Précis" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  My current research explores the role of Islam in the creation of modern diplomacy and international thought. To do so, I examine the lives and writings of Moroccan and Ottoman ambassadors who traveled throughout the 18th century Mediterranean. I explore their travelogues, correspondence, diplomatic manuals, and biographical dictionaries to better understand how they thought about and practiced diplomacy.
+  My current research explores the role of Muslim actors and Islamic value-systems in the creation of our modern world. My current book project *The Islamic Roots of Modern Diplomacy: Objectivity, Justice, and Friendship* examines the lives and writings of Moroccan and Ottoman ambassadors who traveled throughout the 18th century Mediterranean. I explore their travelogues, correspondence, diplomatic manuals, and biographical dictionaries to better understand how they thought about and practiced diplomacy.
+  
+  I offer classes on the __Modern Middle East__, __Predmodern Islamic World__, and the __Mediterranean__. In my teaching I combine discussion on primary source materials, project-based activities, and authentic assessments to foster a community-oriented learning space where students are encouraged to think about how our study of the past informs our present.
   
 show_outro: false
 outro: |
