@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A professional site for Dr. Peter Kitlas."
   favicon = "/img/icon.png"
   logo = "/img/icon.png"
-  mainSections = ["blog", "research", "teaching"]
+  mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
