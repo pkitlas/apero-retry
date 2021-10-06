@@ -9,7 +9,7 @@ images:
 - img/landing.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A historian and teacher.
+subtitle: A historian and community-oriented educator.
 text_align_left: true
 title: Peter Kitlas
 type: home

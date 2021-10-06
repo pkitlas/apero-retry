@@ -114,22 +114,17 @@ enableEmoji = true
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 2
+    weight = 4
   [[menu.header]]
     name = "Research"
     title = "My published research"
     url = "/research/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Teaching"
     title = "My teaching portfolio"
     url = "/teaching/"
-    weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
+    weight = 3
     
   # Configure footer  
   [[menu.footer]]
