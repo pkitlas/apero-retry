@@ -97,6 +97,10 @@ enableEmoji = true
       icon      = "academia" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://emory.academia.edu/PeterKitlas?from_navbar=true"
+ [[params.social]]
+      icon      = "cv" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "/files/0_CV.pdf"
 
 [taxonomies]
   category = "categories"
