@@ -12,7 +12,7 @@ tags:
 title: Islam in America or American Islam?
 ---
 
-![Master Musicians of Jahjouka](featured.JPG)*The Master Musicians of Jahjouka, Morocco performing at the Arab-American Museum in Dearborn, Michigan*
+![Master Musicians of Jahjouka](featured.JPG)*The Master Musicians of Jahjouka, Morocco performing in Detroit, Michigan*
 
 ## Course Syllabus
 
