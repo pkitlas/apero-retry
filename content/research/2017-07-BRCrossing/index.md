@@ -9,9 +9,9 @@ excerpt: James A.O.C. Brown's study of economic and diplomatic relations between
 featured: true
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
+- icon: academia
+  icon_pack: ai
+  name: Academia
   url: https://www.academia.edu/33830823/Book_Review_for_James_A.O.C._Browns_Crossing_the_strait_Morocco_Gibraltar_and_Great_Britain_in_the_18th_and_19th_centuries
 location: 
 show_post_time: false

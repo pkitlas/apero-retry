@@ -9,9 +9,9 @@ excerpt: An introduction to a special section of The Journal of North African St
 featured: true
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
+-- icon: academia
+  icon_pack: ai
+  name: Academia
   url: https://www.academia.edu/43998497/Introduction_to_special_section_Jaz%C4%ABrat_al_Maghrib_North_Africa_as_an_island
 location: 
 show_post_time: false

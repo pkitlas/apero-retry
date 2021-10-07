@@ -12,21 +12,20 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent research
     text_link_url: /research/
-description: |
-  Below is a list with links and brief descriptions of research that I have published in academic journals and encyclopedias.
+description: "Below is a list of my recent published academic work with links to their PDFs on Academia.edu"
 layout: list
-show_author_byline: false
+show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
-show_post_time: true
 sidebar:
-  author: The R Markdown Team @RStudio
-  description: "This is a list with links to my published academic research."
-  show_sidebar_adunit: false
+  author: Peter Kitlas
+  description: "This is an updated list of my publications with links to pdfs on Academia."
+  show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
-  text_link_url: /talk/index.xml
-  title: Talks that Last
-title: Published Research
+  text_link_url: /index.xml
+  title: Public History Projects
+thumbnail_left: true
+title: Published Academic Research
 ---
 
 ** No content below YAML for the talk _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside talk/. You may still override any of these by changing them in a page's front matter.**

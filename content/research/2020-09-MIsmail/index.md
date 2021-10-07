@@ -9,9 +9,9 @@ excerpt: This is an encyclopedia entry I wrote for the Encyclopedia of Islam 3 o
 featured: true
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
+- icon: academia
+  icon_pack: ai
+  name: Academia
   url: https://www.academia.edu/43998538/EI3_Mawl%C4%81y_Ism%C4%81%CA%BF%C4%ABl
 location: 
 show_post_time: false

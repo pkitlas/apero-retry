@@ -9,7 +9,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View all projects
-    text_link_url: /research/
+    text_link_url: /teaching/
 description: Information about my teaching practices and past courses.
 layout: list-sidebar
 show_author_byline: true
