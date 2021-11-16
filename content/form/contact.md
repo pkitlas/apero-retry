@@ -2,7 +2,7 @@
 date: "2019-02-25T13:38:41-06:00"
 description: If you would like to contact me about my research, teaching, or public history projects, please fill out this form. I will try to get back to you as soon as possible.
 draft: false
-formspree_form_id: https://formspree.io/f/xnqlezkk
+formspree_form_id: xnqlezkk
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
