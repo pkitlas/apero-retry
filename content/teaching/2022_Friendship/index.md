@@ -11,7 +11,7 @@ layout: single
 subtitle:
 tags:
 - Past Course
-title: Friendship and Islam: From Rumi to Ramy
+title: Friendship and Islam From Rumi to Ramy
 ---
 
 ![Muslim Art Gala](featured.jpg)*With Students and Emory's annual Muslim Art Gala*
