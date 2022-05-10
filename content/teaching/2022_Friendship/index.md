@@ -14,7 +14,7 @@ tags:
 title: Friendship and Islam From Rumi to Ramy
 ---
 
-![Muslim Art Gala](featured.jpg)*With Students and Emory's annual Muslim Art Gala*
+![Muslim Art Gala](featured.jpg)*With Students at Emory University's annual Muslim Art Gala*
 
 ## Course Syllabus
 
