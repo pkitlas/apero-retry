@@ -38,4 +38,11 @@ What do the poet Rumi, bureaucrat Sari Mehmed Pasha, and comics author G. Willow
 ## Student Reviews
 
 1.
+>Professor Kitlas engages with his students and always make sure that they feel comfortable in their class. He pushes them to speak their mind as well as be open-minded to new ways of thinking. Plus, he always finds to keep his classes engaging like that one time where we had an outdoor walk talking about Islam culture and international relationships.
+
+2. 
+>Professor Kitlas was extremely accessible and made a lot of time outside of class for discussion and meeting with him. He also gave each person time and advice on papers and projects, asking us to email him our ideas. He gave very in-depth responses and was very helpful in giving us ideas to work with.
+
+3.
+>I have never had a professor as compassionate, knowledgeable, and gracious as Dr. Kitlas. He was incredibly personable, and went above in beyond in teaching us, but also learning from us which was highly appreciated. He created a classroom environment where I will see my classmates and feel comfortable to catch up with them on a friendly basis, and also catch up with him. Dr. Kitlas also has a special talent in making his students feel valued in their ideas, who they are, and where they have come from by remembering small details about us and talking about things inside and outside of the content we were learning. In whatever future I have as a professional, whether it's a teacher or lawyer, I will forever hold Dr. Kitlas as a role model for how to treat others and how to give grace. Emory is lucky to have had such an amazing individual in their community, and his impact will be longstanding.
 
