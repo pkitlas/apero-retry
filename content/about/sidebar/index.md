@@ -9,10 +9,10 @@ link_list_label: "Links" # bookmarks, elsewhere, etc.
 link_list:
 - name: Spain North Africa Project
   url: http://www.spainnorthafricaproject.org/bulletin
-- name: The Center for the Study of the Arab World
-  url: http://fchi.emory.edu/home/
+- name: Humanities Research Center at NYUAD 
+  url: https://www.hrf-arabworld.org/
 - name: Academia
-  url: https://emory.academia.edu/PeterKitlas?from_navbar=true
+  url: https://nyuad.academia.edu/PeterKitlas
 ---
 
 ** index doesn't contain a body, just front matter above.
