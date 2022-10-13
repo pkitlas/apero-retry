@@ -15,8 +15,8 @@ links:
   url: https://www.academia.edu/88422192/_Our_Sultan_Must_Preserve_His_Religion_Just_as_You_Preserve_Your_Own_Al_Ghazz%C4%81l_and_the_Re_Forging_of_Islamic_Diplomacy_in_Eighteenth_Century_Morocco
 location: 
 show_post_time: false
-subtitle: 
-title: “Our Sultan must preserve His religion, just as you preserve your own”: Al-Ghazzāl and the Re-Forging of Islamic Diplomacy in Eighteenth-Century Morocco
+subtitle: Al-Ghazzāl and the Re-Forging of Islamic Diplomacy in Eighteenth-Century Morocco
+title: “Our Sultan must preserve His religion, just as you preserve your own”
 ---
 
 ## Extended Abstract
